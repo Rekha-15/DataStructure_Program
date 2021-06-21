@@ -1,3 +1,10 @@
+/**
+ * @purpose Implementing Cash Counter program using queue
+ * @author rekha
+ * @version 1.0
+ *  @since 15-062021
+ */
+
 package queue;
 
 public class CashCounter 
