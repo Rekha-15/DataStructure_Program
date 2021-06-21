@@ -1,3 +1,10 @@
+/**
+ * @purpose Implementing Ordered.LinkedList program
+ * @author rekha
+ * @version 1.0
+ *  @since 15-062021
+ */
+
 package Ordered.LinkedList;
 
 public class Node<T> {
